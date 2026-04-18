@@ -16,7 +16,7 @@ import sv.edu.udb.sistemaescolar.repository.ProfesorRepository;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 @SpringBootTest
-class SistemaEscolarApplicationTests {
+class SpringApiRestApplicationTests {
 
     @Autowired
     private ProfesorRepository profesorRepository;
